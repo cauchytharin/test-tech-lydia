@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22A380" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UserEntity" representedClassName=".UserEntity" syncable="YES">
+        <attribute name="cell" attributeType="String"/>
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="country" optional="YES" attributeType="String"/>
+        <attribute name="dateOfBirth" attributeType="String"/>
+        <attribute name="email" attributeType="String"/>
+        <attribute name="firstName" attributeType="String"/>
+        <attribute name="gender" attributeType="String"/>
+        <attribute name="largePictureUrl" optional="YES" attributeType="String"/>
+        <attribute name="lastName" attributeType="String"/>
+        <attribute name="latitude" optional="YES" attributeType="String"/>
+        <attribute name="longitude" optional="YES" attributeType="String"/>
+        <attribute name="mediumPicutreUrl" attributeType="String"/>
+        <attribute name="nationality" optional="YES" attributeType="String"/>
+        <attribute name="phone" attributeType="String"/>
+        <attribute name="postcode" attributeType="String"/>
+        <attribute name="state" optional="YES" attributeType="String"/>
+        <attribute name="streetName" optional="YES" attributeType="String"/>
+        <attribute name="streetNumber" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+</model>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93A6513A-902F-4EDD-B1DE-4FD3C24CFF2D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41CB83F0-CE9E-4E63-9515-9F5749B9194F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lydia Technical Test/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchUsers(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60B6E03F-6AE0-4495-9F9C-1FA1F97A7BC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lydia Technical Test/PersistentContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50C47D1D-63B5-4143-B09F-CD2DE934C02A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lydia Technical Test/UserDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "UserDetailViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97182A25-B6E7-4DA6-83C5-F6BACE9ACE99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lydia Technical Test/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetchUsers(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97182A25-B6E7-4DA6-83C5-F6BACE9ACE99 - 23c5b18f055c59f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lydia_Technical_Test.APICaller.fetchUsers(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;Lydia_Technical_Test.User&gt;, Lydia_Technical_Test.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Lydia Technical Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/billycauchy-tharin/Desktop/lydia/Lydia%20Technical%20Test/Lydia%20Technical%20Test/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "97182A25-B6E7-4DA6-83C5-F6BACE9ACE99 - 23c5b18f055c59f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lydia_Technical_Test.APICaller.fetchUsers(page: Swift.Int, completion: (Swift.Result&lt;Swift.Array&lt;Lydia_Technical_Test.User&gt;, Lydia_Technical_Test.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Lydia Technical Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/billycauchy-tharin/Desktop/lydia/Lydia%20Technical%20Test/Lydia%20Technical%20Test/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E292DD8-2AA7-4689-926F-3EEE54EB8B33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lydia Technical Test/Views/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "presentError(viewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E292DD8-2AA7-4689-926F-3EEE54EB8B33 - d57e42847cb2c453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lydia_Technical_Test.UserListViewController.presentError(viewModel: Lydia_Technical_Test.UserModel.ViewModel) -&gt; ()"
+                  moduleName = "Lydia Technical Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/billycauchy-tharin/Desktop/lydia/Lydia%20Technical%20Test/Lydia%20Technical%20Test/Views/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "7E292DD8-2AA7-4689-926F-3EEE54EB8B33 - d57e42847cb2c453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lydia_Technical_Test.UserListViewController.presentError(viewModel: Lydia_Technical_Test.UserModel.ViewModel) -&gt; ()"
+                  moduleName = "Lydia Technical Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/billycauchy-tharin/Desktop/lydia/Lydia%20Technical%20Test/Lydia%20Technical%20Test/Views/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "7E292DD8-2AA7-4689-926F-3EEE54EB8B33 - d57e42847cb2c453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lydia_Technical_Test.UserListViewController.presentError(viewModel: Lydia_Technical_Test.UserModel.ViewModel) -&gt; ()"
+                  moduleName = "Lydia Technical Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/billycauchy-tharin/Desktop/lydia/Lydia%20Technical%20Test/Lydia%20Technical%20Test/Views/UserListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
